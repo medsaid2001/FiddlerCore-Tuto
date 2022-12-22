@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\FiddlerCore tuto 1\FiddlerCore tuto 1\bin\Debug\FiddlerCore tuto 1.exe.config
+C:\Users\LENOVO\source\repos\FiddlerCore tuto 1\FiddlerCore tuto 1\bin\Debug\FiddlerCore tuto 1.exe
+C:\Users\LENOVO\source\repos\FiddlerCore tuto 1\FiddlerCore tuto 1\bin\Debug\FiddlerCore tuto 1.pdb
+C:\Users\LENOVO\source\repos\FiddlerCore tuto 1\FiddlerCore tuto 1\bin\Debug\BasicFormatsForCore.dll
+C:\Users\LENOVO\source\repos\FiddlerCore tuto 1\FiddlerCore tuto 1\bin\Debug\BCMakeCert.dll
+C:\Users\LENOVO\source\repos\FiddlerCore tuto 1\FiddlerCore tuto 1\bin\Debug\CertMaker.dll
+C:\Users\LENOVO\source\repos\FiddlerCore tuto 1\FiddlerCore tuto 1\bin\Debug\FiddlerCore4.dll
+C:\Users\LENOVO\source\repos\FiddlerCore tuto 1\FiddlerCore tuto 1\bin\Debug\FiddlerCore4.xml
+C:\Users\LENOVO\source\repos\FiddlerCore tuto 1\FiddlerCore tuto 1\obj\Debug\FiddlerCore tuto 1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\FiddlerCore tuto 1\FiddlerCore tuto 1\obj\Debug\FiddlerCore tuto 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\FiddlerCore tuto 1\FiddlerCore tuto 1\obj\Debug\FiddlerCore_tuto_1.Form1.resources
+C:\Users\LENOVO\source\repos\FiddlerCore tuto 1\FiddlerCore tuto 1\obj\Debug\FiddlerCore_tuto_1.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\FiddlerCore tuto 1\FiddlerCore tuto 1\obj\Debug\FiddlerCore tuto 1.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\FiddlerCore tuto 1\FiddlerCore tuto 1\obj\Debug\FiddlerCore tuto 1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FiddlerCore tuto 1\FiddlerCore tuto 1\obj\Debug\FiddlerCore tuto 1.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\FiddlerCore tuto 1\FiddlerCore tuto 1\obj\Debug\FiddlerCore tuto 1.exe
+C:\Users\LENOVO\source\repos\FiddlerCore tuto 1\FiddlerCore tuto 1\obj\Debug\FiddlerCore tuto 1.pdb
